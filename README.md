@@ -1,2 +1,2 @@
 # WebFund
- Not your money
+ not urs
